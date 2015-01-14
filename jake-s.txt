@@ -37,7 +37,9 @@
                 <li>Web Site Design using BootStrap</li>
             </ul>
         </li>
-        <li>I have mantained a WordPress site using Ubuntu and Docker containers for a local lawyer. (Further info on request)</li>
+        <li>I have mantained a WordPress site using Ubuntu and Docker containers for a 
+        local lawyer. (Further info on request)
+        </li>
         <li>Papas 50’s Dinner
             <ul>
                 <li>Dish washer</li>
@@ -66,5 +68,5 @@
         <li>GitHub: <a href="http://github.com/hippyjake">hippyjake</a>
         </li>
     </ul>
-    <pre>Jake Strichek                       1/7/2015                             JAKE(7)</pre>
+    <pre>Jake Strichek                       1/13/2015                            JAKE(7)</pre>
 <span id="a">jake@Rocketship</span>:<span id="b">~</span><span id="c">$</span>
