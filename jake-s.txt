@@ -63,8 +63,8 @@
     </ul>
     <h1 id="see-also"><a name="see-also" href="#see-also"></a>SEE ALSO</h1>
     <ul>
-        <li>E-mail: hippyjake@gmail.com</li>
-        <li>Phone: (520)678-0796</li>
+        <li>E-mail: hippyjake(AT)gmail(DOT)com</li>
+        <li>Phone: (520)six7eight-0seven96</li>
         <li>GitHub: <a href="http://github.com/hippyjake">hippyjake</a>
         </li>
     </ul>
