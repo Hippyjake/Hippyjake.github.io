@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/hippyjake
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hippyjake.github.io
+  * I am hippyjake (https://keybase.io/hippyjake) on keybase.
+  * I have a public key with fingerprint 396C 0BA0 A44C 6ADE AD69  B284 72E4 4B6D 9305 10EE
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01017d1c5cf42f177e75f935406274b3bec4f3ddb804045a67ee48c56096fb96381d0a",
+            "fingerprint": "396c0ba0a44c6adead69b28472e44b6d930510ee",
+            "host": "keybase.io",
+            "key_id": "72e44b6d930510ee",
+            "kid": "01017d1c5cf42f177e75f935406274b3bec4f3ddb804045a67ee48c56096fb96381d0a",
+            "uid": "af04c1bc283e2aa5b47e766fceaf3919",
+            "username": "hippyjake"
+        },
+        "service": {
+            "hostname": "hippyjake.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1475260674,
+    "expire_in": 157680000,
+    "prev": "e523b41b3adfd9d33997f003758e3cdd11c358597a184577c01e4e664aca2f72",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMImAnicrZJJaBRBFIZnNEYcFyTBJYoEGxSUUau6qqu7R4jESJCI6CESjeJQXVU9
+047OjN2dVSS4HRQXggQXMLghmBD3g+AWgwsSFNxRFHFBiDqKEFxQidVRL+LRuhT1
++P+v3v94V4YPDEXCr9Odz3IkOjncfXl/Tajq/ckBaxQrwxuU2BolJfovsZILz4+n
+HK7EFAAB1DlkGrOxakNdF7pmm0jDgKg6tpAlGLYR55YBMMAaJboQ2GAaASaxLZMg
+A3JAlahiO+mEcLOuk/YlFpmEAYsCijEjlAvKiWmpBtZVgbFFuImABoEQ0pjMeIFD
+NmdRT0x3MrImH/H+9v6h/8991/TjqA0wgxZTDSRUSjULSyAhNhPURiY0A6En3DRd
+JaQ66WSzDStoSihro4os1zpMBJMNovwtmZ5w/GSN9StX1s34GZZZGQh8P+vFAoDf
+kA0cdcKK/2bFLSfN5Tylo1a4npNJKzEolcx3AjjEuqYSQHQcVUR91nFF3AkUmk4M
+IE/wj6iVSKGpyMLQQpTb3OQImaZuA4B0zRCIcQ4hQ5qhmTqFBtZ0nQEosCAEU0ZV
+W1eVIN3qdEayJdSnCcn0nESa+jWuzN7VuSwvFI6E8gcNCBYtFBky8s/6xSoGfx/R
+sSy6p2PDwal900hr0YvTQ9496lpwb+/ZXjgrGXrKnpYWl7Qpwz/Z2/YmE+VNxwsO
+fM11JR9+7gvv9K9Vnphf1/Jk8121c1Su8d7Sepia97ps38XKD497q1/mbg9t/7Lg
+WXX5mE1FU/J3vyva7i2Ze2PW+uejTtwq4aNT14ctXl0KvLaz8+28qj042bxRLL/Q
+tCMy1qWwZ2b1UWaiOW8rjpy6NoU0VLYXz9j0smVRY+7S7PNbe84VRnt3tR4ruFNW
+eCtVUd/YfebQVVF6+MH9N6/cm4Upv3Xsm48laKh25kf+joKqusXreyaNn/FgYve4
+RYc7vzyKlG9Zt8teOKG8Kdz8DfwEFpZDwQ==
+=/dLf
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hippyjake
+
+==================================================================
+
