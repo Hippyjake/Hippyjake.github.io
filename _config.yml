@@ -32,6 +32,8 @@ gems:
 - jekyll-sitemap
 - jekyll-gist
 - jekyll-admin
+- github-pages
+- kickster
 jekyll-mentions:
   base_url: https://github.com
 exclude:
@@ -46,5 +48,6 @@ exclude:
 - vendor
 - CNAME
 - LICENSE
+- logs/
 - Rakefile
 - tester.sh

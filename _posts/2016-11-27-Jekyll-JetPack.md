@@ -1,17 +1,18 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
-date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+title:  "Jekyll JetPack"
+date:   2016-10-27
+excerpt: "Jekyll JetPack Is your best bud when it comes to using Jekyll."
 project: true
 tag:
 - jekyll 
-- moon
-- blog
-- about
-- theme
-comments: true
+- Bash
+- CLI
+- Awesome
+comments: false
 ---
+
+Jekyll JetPack Is your best bud when it comes to using Jekyll.
 
 ![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
     

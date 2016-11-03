@@ -52,8 +52,8 @@ echo "${yellow}Checking Dependencies${reset}"
 if [ -d vendor ]
 then
   echo "${green}Found vendor folder${reset}"
-  echo "${green}Updating Dependencies${reset}"
-  bundle update
+  echo -e "${green}Updating Dependencies \n Update log can be found at logs/bundelUpdate.txt${reset}"
+  bundle update > logs/bundelUpdate.txt
 else
   echo "${red}Installing Dependencies${reset}"
   bundle install --path vendor
@@ -76,7 +76,8 @@ xdg-open http://localhost:4000 &
 
 echo "${green}Statring Jekyll${reset}"
 
-bundle exec jekyll serve &
+bundle exec jekyll serve > logs/jekyllLog.txt &
+echo "Jekyll output can be found at logs/jekyllLog.txt"
 echo -e "${green}$(gettext 'Press ENTER to stop Jekyll and leave script')${reset}"
 function pause(){
   read -rp "$*"
