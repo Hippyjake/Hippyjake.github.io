@@ -53,6 +53,7 @@ if [ -d vendor ]
 then
   echo "${green}Found vendor folder${reset}"
   echo -e "${green}Updating Dependencies \n Update log can be found at logs/bundelUpdate.txt${reset}"
+  touch logs/bundelUpdate.txt
   bundle update > logs/bundelUpdate.txt
 else
   echo "${red}Installing Dependencies${reset}"
@@ -75,7 +76,7 @@ sleep 5
 xdg-open http://localhost:4000 &
 
 echo "${green}Statring Jekyll${reset}"
-
+touch logs/jekyllLog.txt.txt
 bundle exec jekyll serve > logs/jekyllLog.txt &
 echo "Jekyll output can be found at logs/jekyllLog.txt"
 echo -e "${green}$(gettext 'Press ENTER to stop Jekyll and leave script')${reset}"
@@ -84,7 +85,7 @@ function pause(){
   pgrep -f "jekyll" | xargs kill -INT
 }
 pause "$@"
-
+./vendor/gems/kickster-1.4.0/template/bin/deploy
 echo ""
 echo "Bye!"
 exit
