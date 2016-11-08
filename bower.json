@@ -1,0 +1,6 @@
+{
+  "name": "jquery",
+  "dependencies": {
+    "jquery": "~3.1.1"
+  }
+}
